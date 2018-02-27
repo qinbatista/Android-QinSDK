@@ -1,0 +1,3 @@
+[submodule "01_E2WSDK"]
+	path = 01_E2WSDK
+	url = https://qinbatista@bitbucket.org/East2WestGames/01_e2wsdk.git
