@@ -12,7 +12,6 @@
 
 	<meta-data android:name="CHANNEL_NAME" android:value="" />
 	<meta-data android:name="E2W_LOG" android:value="open" />
-	<meta-data android:name="CHANNEL_SPLASH" android:value="open" />
 	<meta-data android:name="E2W_NUMBER" android:value="east2west1" />
 
 <!--sdk-->  
