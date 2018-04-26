@@ -1,16 +1,16 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"20000065",
+	"APPKEY":"5PTG93mmT2xNakV4lDF74b2DXeKlyNrl",
 	"ADChannel":"",
 	"SDKPay":"0,1",
-	"production1":
+	"UnlockGame":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
-		"dxpid":"001",
+		"dxpid":"TOOL1",
 		"channelpid":"a02",
-		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"pricefloat":"30.0f",
+		"desc":"激活后续关卡"
 	},
 	"production2":
 	{
