@@ -87,7 +87,7 @@
 
 		android:name="com.huawei.hms.update.provider.UpdateProvider"   
 
-	   android:authorities="pl.idreams.pottery.hms.update.provider"  
+	   android:authorities="air.amanita_design.samorost3.E2W.huawei.hms.update.provider"  
 
 		android:exported="false"  
 
@@ -101,7 +101,7 @@
 
   
 
-		android:authorities="pl.idreams.pottery.updateSdk.fileProvider"
+		android:authorities="air.amanita_design.samorost3.E2W.huawei.updateSdk.fileProvider"
 
 		android:exported="false"
 
