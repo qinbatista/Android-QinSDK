@@ -3,49 +3,49 @@
 	"APPKEY":"	",
 	"ADChannel":"",
 	"SDKPay":"0,1",
-	"UnlockNextPlanet":
+	"production1":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"TOOL1",
 		"channelpid":"a02",
-		"pricefloat":"3f",
+		"pricefloat":"3.00",
 		"desc":"解锁下一个星球"
 	},
-	"Unlock1_9":
+	"production2":
 	{
 		"ydpid":"012",
 		"ltpid":"016",
 		"dxpid":"TOOL16",
 		"channelpid":"a02",		
-		"pricefloat":"9.0f",
+		"pricefloat":"9.00",
 		"desc":"解锁剩下4个星球"						
 	},
-	"Unlock2_7":
+	"production3":
 	{
 		"ydpid":"013",
 		"ltpid":"014",
 		"dxpid":"TOOL14",
 		"channelpid":"a02",		
-		"pricefloat":"7.0f",
+		"pricefloat":"7.00",
 		"desc":"解锁剩下3个星球"						
 	},
-	"Unlock3_5":
+	"production4":
 	{
 		"ydpid":"014",
 		"ltpid":"017",
 		"dxpid":"TOOL17",
 		"channelpid":"a02",		
-		"pricefloat":"5.0f",
+		"pricefloat":"5.00",
 		"desc":"解锁剩下2个星球"						
 	},
-	"Gift1":
+	"production5":
 	{
 		"ydpid":"015",
 		"ltpid":"018",
 		"dxpid":"TOOL18",
 		"channelpid":"a02",		
-		"pricefloat":"18.0f",
+		"pricefloat":"18.00",
 		"desc":"超值大礼包"						
 	},
 	"production6":

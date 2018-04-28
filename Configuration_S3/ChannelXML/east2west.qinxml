@@ -1,4 +1,4 @@
-<!--sdk-->  
+<!--east2west-->  
         <activity
             android:name="com.alipay.sdk.app.H5PayActivity"
             android:configChanges="orientation|keyboardHidden|navigation|screenSize"
@@ -15,12 +15,12 @@
         </activity>
 		
         <activity
-            android:name="com.ironhidegames.android.ironmarines.e2w.wxapi.WXPayEntryActivity"
+            android:name="air.air.amanita_design.samorost3.E2W.east2west.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:launchMode="singleTop" />
 <!--end-->
 
-<!--sdkxml-->
+<!--east2westxml-->
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.GET_TASKS" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
