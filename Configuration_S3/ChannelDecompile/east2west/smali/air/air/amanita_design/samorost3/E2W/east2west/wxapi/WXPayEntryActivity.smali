@@ -32,7 +32,7 @@
     iput-object v0, p0, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->mBaseInApp:Lcom/east2west/game/inApp/InAppBase;
 
     .line 25
-    const-string v0, "[wechatpay]"
+    const-string v0, "[air.air.amanita_design.samorost3.E2W.east2west.wxapi]"
 
     iput-object v0, p0, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->channelname:Ljava/lang/String;
 
@@ -43,7 +43,7 @@
 
 # virtual methods
 .method public onCreate(Landroid/os/Bundle;)V
-    .locals 2
+    .locals 3
     .param p1, "savedInstanceState"    # Landroid/os/Bundle;
 
     .prologue
@@ -51,7 +51,7 @@
     invoke-super {p0, p1}, Landroid/app/Activity;->onCreate(Landroid/os/Bundle;)V
 
     .line 30
-    const-string v0, "wxd6edc8afdfbf2bc2"
+    sget-object v0, Lcom/east2west/game/inApp/InAppEAST2WEST;->WX_APP_ID:Ljava/lang/String;
 
     invoke-static {p0, v0}, Lcom/tencent/mm/sdk/openapi/WXAPIFactory;->createWXAPI(Landroid/content/Context;Ljava/lang/String;)Lcom/tencent/mm/sdk/openapi/IWXAPI;
 
@@ -71,7 +71,21 @@
     .line 32
     const-string v0, "Max"
 
-    const-string v1, "[WXPayEntryActivity] onCreate->wxd6edc8afdfbf2bc2"
+    new-instance v1, Ljava/lang/StringBuilder;
+
+    const-string v2, "[WXPayEntryActivity] onCreate->"
+
+    invoke-direct {v1, v2}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+
+    sget-object v2, Lcom/east2west/game/inApp/InAppEAST2WEST;->WX_APP_ID:Ljava/lang/String;
+
+    invoke-virtual {v1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v1
 
     invoke-static {v0, v1}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
 
@@ -234,7 +248,7 @@
     .line 60
     invoke-virtual {p0}, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->finish()V
 
-    .line 76
+    .line 78
     :cond_0
     :goto_0
     return-void
@@ -300,14 +314,14 @@
 
     invoke-virtual {v0}, Landroid/widget/Toast;->show()V
 
-    .line 70
+    .line 72
     iget-object v0, p0, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->mBaseInApp:Lcom/east2west/game/inApp/InAppBase;
 
     iget-object v1, p0, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->channelname:Ljava/lang/String;
 
     invoke-virtual {v0, v1}, Lcom/east2west/game/inApp/InAppBase;->onPurchaseFailed(Ljava/lang/String;)V
 
-    .line 71
+    .line 73
     invoke-virtual {p0}, Lair/air/amanita_design/samorost3/E2W/east2west/wxapi/WXPayEntryActivity;->finish()V
 
     goto :goto_0
