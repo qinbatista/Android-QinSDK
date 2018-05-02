@@ -9,7 +9,7 @@
 		"ltpid":"001",
 		"dxpid":"TOOL1",
 		"channelpid":"a02",
-		"pricefloat":"30.0f",
+		"pricefloat":"30.00",
 		"desc":"激活后续关卡"
 	},
 	"production2":

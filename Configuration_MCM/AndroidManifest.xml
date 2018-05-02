@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" 
-android:installLocation="auto" package="com.east2west.Machinarium.vip.iqiyi" platformBuildVersionCode="22" platformBuildVersionName="5.1-1756733">
+android:installLocation="auto" package="com.AmanitaDesign.Machinarium.E2W" platformBuildVersionCode="22" platformBuildVersionName="5.1-1756733">
 	<application android:debuggable="false" android:icon="@drawable/icon" android:label="机械迷城" android:name="net.Amanita.Design.Machinarium.E2W.UNI.ChinaE2WUNILauncher">
         <meta-data android:name="CHANNEL_NAME" android:value="kw"/>
         <meta-data android:name="MOBILE_SPLASH" android:value="close"/>
