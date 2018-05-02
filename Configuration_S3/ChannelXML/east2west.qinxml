@@ -1,4 +1,4 @@
-<!--east2west-->  
+<!--sdk-->  
         <activity
             android:name="com.alipay.sdk.app.H5PayActivity"
             android:configChanges="orientation|keyboardHidden|navigation|screenSize"
@@ -20,7 +20,7 @@
             android:launchMode="singleTop" />
 <!--end-->
 
-<!--east2westxml-->
+<!--sdkxml-->
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.GET_TASKS" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
