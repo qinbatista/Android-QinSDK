@@ -35,7 +35,7 @@
             android:name="com.xiaomi.gamecenter.push.GamePushService"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.east2west.IronMarine.mi.MI_GAME_PUSH"/>
+                <action android:name="com.AmanitaDesign.Machinarium.E2W.mi.MI_GAME_PUSH"/>
             </intent-filter>
         </service>
 
