@@ -29,7 +29,7 @@
     <meta-data android:name="UMENG_APPKEY" android:value="584e28b607fe6577a3000d5b" />
     <meta-data android:name="UMENG_CHANNEL" android:value="east2west" />
 	<meta-data android:name="E2W_LOG" android:value="open" />
-	
+	<meta-data android:name="E2W_EXCHANGE" android:value="open"/>
 <!--sdk-->  
 <!--end-->
 

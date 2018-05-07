@@ -23,7 +23,7 @@ android:installLocation="auto" package="com.ironhidegames.android.ironmarines.e2
 		<meta-data android:name="MOBILE_SPLASH" android:value="" />
 		<meta-data android:name="E2W_LOG" android:value="open" />
 		<meta-data android:name="E2W_NUMBER" android:value="east2west1" />
-        
+        <meta-data android:name="E2W_EXCHANGE" android:value="open"/>
         <meta-data android:name="io.fabric.ApiKey" android:value="b67c3a4d476d62ead6e2b38fd97fdea2279b3249"/>
         <meta-data android:name="io.fabric.unity.crashlytics.version" android:value="1.2.4"/>
         <meta-data android:name="io.fabric.crashlytics.qualified" android:value="com.crashlytics.android.Crashlytics"/>
