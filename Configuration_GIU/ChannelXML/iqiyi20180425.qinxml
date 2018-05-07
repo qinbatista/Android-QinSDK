@@ -609,7 +609,10 @@
 
             </intent-filter>
 
-          <activity
+		</activity>
+		
+		
+		<activity
 
             android:name="com.ppsgame.sdk.activity.PPSPushActivity"
 
@@ -706,9 +709,6 @@
 
         </activity>   
 
-       
-
-		</activity>
 
 <!--end-->
 <!--sdkxml-->
