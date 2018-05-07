@@ -533,7 +533,7 @@
 
             <intent-filter>
 
-                <action android:name="com.east2west.IronMarine.vip.iqiyi" />
+                <action android:name="com.invictus.impossiball.vip.iqiyi" />
 
             </intent-filter>
 
@@ -569,7 +569,7 @@
 
             android:name="com.iqiyi.iflex.RemoteContentProvider"
 
-            android:authorities="com.east2west.IronMarine.vip.iqiyi"
+            android:authorities="com.invictus.impossiball.vip.iqiyi"
 
             android:exported="true"
 
@@ -605,7 +605,7 @@
 
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent7200" />
+                <data android:scheme="tencent6482" />
 
             </intent-filter>
 
@@ -657,7 +657,7 @@
 
 
 
-        <!-- alipay sdk begin -->
+
 
         <activity
 
@@ -673,13 +673,12 @@
 
         </activity>
 
-        <!-- alipay sdk end -->
 
 
 
 
 
-        <!-- 银联 -->
+
 
         <activity
 
@@ -691,9 +690,7 @@
 
             android:screenOrientation="sensorPortrait" />
 
-        <!-- 银联 -->
 
-        <!-- 现在支付-微信支付 -->
 
         <activity
 
@@ -734,9 +731,6 @@
     <uses-permission android:name="android.permission.RESTART_PACKAGES" />
 
 
-
-    <!-- 微信支付 -->
-
     <uses-permission android:name="android.webkit.permission.PLUGIN" />
 
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
@@ -748,10 +742,6 @@
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
 
     <uses-permission android:name="android.permission.READ_SMS" />
-
-
-
-    <!-- 创建桌面快捷图标 -->
 
     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
 
