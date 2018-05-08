@@ -174,7 +174,9 @@
                 android:value="androidhwext:style/Theme.Emui.Translucent" />
 
 	</activity>
-
+	<service 
+	android:name="com.huawei.updatesdk.service.deamon.download.DownloadService"
+	android:exported="false"/>
 <!--end-->
 <!--sdkxml-->
     <uses-permission android:name="android.permission.INTERNET" />    
