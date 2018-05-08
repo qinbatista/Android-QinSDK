@@ -1,39 +1,43 @@
 {
-	"APPID": "",
+	"APPID": "113156",
 	"APPKEY": "",
 	"ADChannel": "",
 	"SDKPay": "0,1",
-	"production1": {
-		"ydpid": "001",
-		"ltpid": "001",
-		"dxpid": "001",
-		"channelpid": "a02",
-		"pricefloat": "18.00",
-		"desc": "1200点券"
+	"production1":
+	{
+		"ydpid":"001",
+		"ltpid":"001",
+		"dxpid":"001",
+		"channelpid":"a02",
+		"pricefloat":"5.00",
+		"desc":"解锁下一个星球"
 	},
-	"production2": {
-		"ydpid": "001",
-		"ltpid": "001",
-		"dxpid": "001",
-		"channelpid": "a02",
-		"pricefloat": "30.00",
-		"desc": "2200点券"
+	"production2":
+	{
+		"ydpid":"001",
+		"ltpid":"001",
+		"dxpid":"001",
+		"channelpid":"a02",		
+		"pricefloat":"17.00",
+		"desc":"解锁剩下4个星球"						
 	},
-	"production3": {
-		"ydpid": "001",
-		"ltpid": "001",
-		"dxpid": "001",
-		"channelpid": "a02",
-		"pricefloat": "68.00",
-		"desc": "5000点券"
+	"production3":
+	{
+		"ydpid":"001",
+		"ltpid":"001",
+		"dxpid":"001",
+		"channelpid":"a02",		
+		"pricefloat":"13.00",
+		"desc":"解锁剩下3个星球"						
 	},
-	"production4": {
-		"ydpid": "001",
-		"ltpid": "001",
-		"dxpid": "001",
-		"channelpid": "a02",
-		"pricefloat": "128.00",
-		"desc": "11000点券"
+	"production4":
+	{
+		"ydpid":"001",
+		"ltpid":"001",
+		"dxpid":"001",
+		"channelpid":"a02",		
+		"pricefloat":"9.00",
+		"desc":"解锁剩下2个星球"						
 	},
 	"production5": {
 		"ydpid": "001",
