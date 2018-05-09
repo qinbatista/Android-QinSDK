@@ -533,7 +533,7 @@
 
             <intent-filter>
 
-                <action android:name="com.east2west.IronMarine.vip.iqiyi" />
+                <action android:name="com.invictus.giveitup2.iqiyi" />
 
             </intent-filter>
 
@@ -569,7 +569,7 @@
 
             android:name="com.iqiyi.iflex.RemoteContentProvider"
 
-            android:authorities="com.east2west.IronMarine.vip.iqiyi"
+            android:authorities="com.invictus.giveitup2.iqiyi"
 
             android:exported="true"
 
@@ -605,9 +605,11 @@
 
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent7200" />
+                <data android:scheme="tencent6605" />
 
             </intent-filter>
+				</activity>
+
 
           <activity
 
@@ -711,8 +713,7 @@
 
        
 
-		</activity>
-
+	
 <!--end-->
 <!--sdkxml-->
 
