@@ -1,97 +1,97 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"20000062",
+	"APPKEY":"EfwyaUiEwcWE0ff7KtEljzPcmw3YH2du",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
 	{
-		"ydpid":"001",
+		"ydpid":"000",
 		"ltpid":"001",
-		"dxpid":"001",
+		"dxpid":"TOOL1",
 		"channelpid":"a02",
-		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"pricefloat":"6.00",
+		"desc":"音乐礼包"
 	},
 	"production2":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"022",
+		"ltpid":"019",
+		"dxpid":"TOOL22",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
-		"desc":"2200点券"						
+		"pricefloat":"12.00",
+		"desc":"永久3护盾"						
 	},
 	"production3":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"021",
+		"ltpid":"018",
+		"dxpid":"TOOL21",
 		"channelpid":"a02",		
-		"pricefloat":"68.00",
-		"desc":"5000点券"						
+		"pricefloat":"8.00",
+		"desc":"解锁所有章节"						
 	},
 	"production4":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"019",
+		"ltpid":"016",
+		"dxpid":"TOOL19",
 		"channelpid":"a02",		
-		"pricefloat":"128.00",
-		"desc":"11000点券"						
+		"pricefloat":"6.00",
+		"desc":"获取1000金币"						
 	},
 	"production5":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"020",
+		"ltpid":"017",
+		"dxpid":"TOOL20",
 		"channelpid":"a02",		
-		"pricefloat":"328.00",
-		"desc":"30000点券"						
+		"pricefloat":"6.00",
+		"desc":"免费复活点"						
 	},
 	"production6":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"007",
+		"ltpid":"011",
+		"dxpid":"TOOL17",
 		"channelpid":"a02",		
-		"pricefloat":"648.00",
-		"desc":"70000点券"						
+		"pricefloat":"6.00",
+		"desc":"永久免费复活"						
 	},
 	"production7":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"012",
+		"ltpid":"016",
+		"dxpid":"TOOL18",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"命运女侠"						
+		"pricefloat":"12.00",
+		"desc":"永久3护盾"						
 	},
 	"production8":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"013",
+		"ltpid":"017",
+		"dxpid":"TOOL18",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"风刃"						
+		"pricefloat":"6.00",
+		"desc":"解锁十二生肖"						
 	},
 	"production9":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"014",
+		"ltpid":"018",
+		"dxpid":"TOOL19",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"虚空猎手"						
+		"pricefloat":"2.00",
+		"desc":"限时金币礼包"						
 	},
 	"production10":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"015",
+		"ltpid":"019",
+		"dxpid":"TOOL20",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
-		"desc":"超能博士"						
+		"pricefloat":"2.00",
+		"desc":"永久去除广告"						
 	},
 	"production11":
 	{
