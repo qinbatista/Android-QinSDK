@@ -1,5 +1,5 @@
 <!--sdk-->
-    <meta-data android:name="SMARTISAN_APPID" android:value="20000054" />
+    <meta-data android:name="SMARTISAN_APPID" android:value="20000062" />
 
     <activity android:name="com.smartisan.gamesdk.activity.LoginActivity" android:theme="@android:style/Theme.Translucent" android:configChanges="orientation|screenSize|uiMode" android:screenOrientation="behind" /> 
 

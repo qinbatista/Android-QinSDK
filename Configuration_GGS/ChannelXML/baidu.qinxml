@@ -1,13 +1,13 @@
 <!--sdk-->
           <meta-data
           android:name="dksdk_appid"
-          android:value="8915035" />
+          android:value="11207012" />
           <meta-data
           android:name="dksdk_appkey"
-          android:value="jQlYkrvlQMl9kwqbGz1XGMkK" />
+          android:value="S44VUhQEhsf6O5Bp1eyoKQVL" />
           <meta-data
           android:name="dksdk_appsecret"
-          android:value="cl0ap4BWM9qxTwfKupBInztxKYnWaxGz" />
+          android:value="GjGHfIbBkAiHAQNl6PQL5TMF3Oy935z1" />
           <meta-data
           android:name="dksdk_channel"
           android:value="14146" />
@@ -18,12 +18,12 @@
         
         <!-- 不需要横竖屏 -->
         <activity
-            android:name="air.amanita_design.samorost3.E2W.baidu.GamePropsActivity"
+            android:name="com.drunkbytes.tikitaka.baidu.GamePropsActivity"
             android:windowSoftInputMode="adjustUnspecified|stateHidden" 
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
             android:screenOrientation="landscape"/>
         <activity
-            android:name="air.amanita_design.samorost3.E2W.baidu.GameRechargeActivity"
+            android:name="com.drunkbytes.tikitaka.baidu.GameRechargeActivity"
                 android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
             android:screenOrientation="landscape"/>
         <!-- SDK -->
@@ -260,9 +260,9 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 	
 	<uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
-	<uses-permission android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.air.amanita_design.samorost3.E2W.baidu" />
+	<uses-permission android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.drunkbytes.tikitaka.baidu" />
 	<permission
-	        android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.air.amanita_design.samorost3.E2W.baidu"
+	        android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.drunkbytes.tikitaka.baidu"
 	        android:protectionLevel="normal">
 	</permission>
     <uses-permission android:name="android.permission.INTERNET"/>
