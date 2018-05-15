@@ -1,5 +1,5 @@
-	_path = "C:\GameCode\BaseAPK\Samorost3\Samorost3-E2W-east2west-full.apk"
+	_path = "C:\GameCode\BaseAPK\Samorost3\Samorost3-E2W-east2west-test.apk"
 	Packagename = "air.air.amanita_design.samorost3.E2W.east2west"
-	VersionName = "1.4.4.459"
+	VersionName = "1.4.4.460"
 	VersionCode = "1004460"
 	AD = ""

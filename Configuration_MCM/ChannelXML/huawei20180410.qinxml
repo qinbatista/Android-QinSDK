@@ -3,7 +3,7 @@
 
 		android:name="com.huawei.hms.client.appid"  
 
-		android:value="appid=100090525">  
+		android:value="appid=10358586">  
 
 	</meta-data>    
 
@@ -87,7 +87,7 @@
 
 		android:name="com.huawei.hms.update.provider.UpdateProvider"   
 
-	   android:authorities="pl.idreams.pottery.hms.update.provider"  
+	   android:authorities="com.AmanitaDesign.Machinarium.E2W.hms.update.provider"  
 
 		android:exported="false"  
 
@@ -101,7 +101,7 @@
 
   
 
-		android:authorities="pl.idreams.pottery.updateSdk.fileProvider"
+		android:authorities="com.AmanitaDesign.Machinarium.E2W.updateSdk.fileProvider"
 
 		android:exported="false"
 
