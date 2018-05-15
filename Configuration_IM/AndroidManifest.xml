@@ -42,10 +42,6 @@
         <meta-data android:name="unity.build-id" android:value="8b5311f8-cb13-4de4-80cc-f1a71852d290"/>
         <meta-data android:name="unity.splash-mode" android:value="2"/>
         <meta-data android:name="unity.splash-enable" android:value="true"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation" android:exported="false" android:name="com.alipay.sdk.auth.AuthActivity" android:screenOrientation="behind"/>
-        <activity android:exported="true" android:launchMode="singleTop" android:name="com.ironhidegames.android.ironmarines.e2w.wxapi.WXPayEntryActivity"/>
-    
 		<!--sdk-->  
 		<!--end-->
 	</application>
