@@ -1,5 +1,5 @@
-	_path = "C:\Users\Administrator\Desktop\GiveItUp2_Base.apk"
+	_path = "C:\GameCode\BaseAPK\GiveItUp2\GiveItUp2_Base.apk"
 	Packagename = "com.invictus.giveitup2.smartisan"
-	VersionName = "1.7.5.1"
-	VersionCode = "10018911"
+	VersionName = "1.2.4"
+	VersionCode = "120"
 	AD = ""

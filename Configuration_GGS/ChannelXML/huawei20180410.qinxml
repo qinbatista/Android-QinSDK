@@ -87,7 +87,7 @@
 
 		android:name="com.huawei.hms.update.provider.UpdateProvider"   
 
-	   android:authorities="air.amanita_design.samorost3.E2W.huawei.hms.update.provider"  
+	   android:authorities="com.drunkbytes.tikitaka.huawei.hms.update.provider"  
 
 		android:exported="false"  
 
@@ -101,7 +101,7 @@
 
   
 
-		android:authorities="air.amanita_design.samorost3.E2W.huawei.updateSdk.fileProvider"
+		android:authorities="com.drunkbytes.tikitaka.huawei.updateSdk.fileProvider"
 
 		android:exported="false"
 
@@ -186,6 +186,7 @@
 
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>  
 
-	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>   
-
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>  
+	
+	<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
 <!--end-->
