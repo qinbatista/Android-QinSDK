@@ -37,7 +37,7 @@
 		<!--sdk-->  
 		<!--end-->	
     </application>
-	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23" />
+	
 	<!-- allchannelstart -->
 	<uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
     <uses-feature android:name="android.hardware.faketouch" android:required="false"/>
