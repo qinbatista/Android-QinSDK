@@ -8,7 +8,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",
+		"channelpid":"A01",
 		"pricefloat":"6.00",
 		"desc":"2500金币"
 	},
@@ -17,7 +17,7 @@
 		"ydpid":"002",
 		"ltpid":"002",
 		"dxpid":"002",
-		"channelpid":"a02",		
+		"channelpid":"A02",		
 		"pricefloat":"18.00",
 		"desc":"8000金币"						
 	},
@@ -26,7 +26,7 @@
 		"ydpid":"003",
 		"ltpid":"003",
 		"dxpid":"003",
-		"channelpid":"a02",		
+		"channelpid":"A03",		
 		"pricefloat":"30.00",
 		"desc":"15000金币"						
 	},
@@ -35,7 +35,7 @@
 		"ydpid":"004",
 		"ltpid":"004",
 		"dxpid":"004",
-		"channelpid":"a02",		
+		"channelpid":"A04",		
 		"pricefloat":"68.00",
 		"desc":"40000金币"						
 	},
@@ -44,7 +44,7 @@
 		"ydpid":"005",
 		"ltpid":"005",
 		"dxpid":"005",
-		"channelpid":"a02",		
+		"channelpid":"A05",		
 		"pricefloat":"98.00",
 		"desc":"110000金币"						
 	},
@@ -53,7 +53,7 @@
 		"ydpid":"006",
 		"ltpid":"006",
 		"dxpid":"006",
-		"channelpid":"a02",		
+		"channelpid":"L01",		
 		"pricefloat":"6.00",
 		"desc":"解锁后续关卡"						
 	},
