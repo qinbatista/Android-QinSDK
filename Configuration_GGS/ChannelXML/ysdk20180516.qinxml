@@ -79,7 +79,7 @@
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
 
-            android:screenOrientation="sensorLandscape"
+            android:screenOrientation="sensorPortrait"
 
             android:configChanges="orientation|keyboardHidden|screenSize" />
 
