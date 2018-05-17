@@ -11,6 +11,7 @@
 <!--end-->
 
 <!--sdkxml-->
+	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23" />
 	<uses-permission android:name="android.permission.NFC" />
 	<uses-permission android:name="android.webkit.permission.PLUGIN" />
 	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
