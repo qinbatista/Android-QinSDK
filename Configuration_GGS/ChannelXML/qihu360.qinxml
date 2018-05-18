@@ -137,11 +137,11 @@
 				<meta-data android:name="DC_APPKEY" android:value="02522a2b2726fb0a03bb19f2d8d9524d"/> 
  <!-- gameunion plugin end -->
 	
-    <meta-data android:name="QHOPENSDK_APPID" android:value="204017486">
+    <meta-data android:name="QHOPENSDK_APPID" android:value="204135131">
     </meta-data>
-	<meta-data android:name="QHOPENSDK_APPKEY" android:value="11eccb82677b3294bf7b457d512ea551">
+	<meta-data android:name="QHOPENSDK_APPKEY" android:value="f71a4d14c0daa457edc47a90f4fa02df">
     </meta-data>
-    <meta-data android:name="QHOPENSDK_PRIVATEKEY" android:value="d5180d6cdf1b92d5be3aae1d177433fd">
+    <meta-data android:name="QHOPENSDK_PRIVATEKEY" android:value="bc7ad1004c29a2f672ee3249b106f73e">
     </meta-data>
 		<meta-data android:name="DC_APPKEY" android:value="02522a2b2726fb0a03bb19f2d8d9524d"/> 
 
