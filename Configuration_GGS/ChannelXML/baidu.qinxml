@@ -246,14 +246,10 @@
         <service
             android:name="com.baidu.platformsdk.BDPlatformService"
             android:exported="false" />
-
-
-		
-	<meta-data android:name="dksdk_ver" android:value="145"/>
 <!--end-->
 
 <!--sdkxml-->
-	
+	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="21" />
     <uses-permission android:name="android.permission.READ_LOGS" />
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
