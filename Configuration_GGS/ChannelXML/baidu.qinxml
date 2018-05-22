@@ -19,13 +19,13 @@
         <!-- 不需要横竖屏 -->
         <activity
             android:name="com.drunkbytes.tikitaka.baidu.GamePropsActivity"
-            android:windowSoftInputMode="adjustUnspecified|stateHidden" 
-            android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
-            android:screenOrientation="landscape"/>
+            android:windowSoftInputMode="adjustUnspecified|stateHidden"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="portrait"/>
         <activity
             android:name="com.drunkbytes.tikitaka.baidu.GameRechargeActivity"
-                android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
-            android:screenOrientation="landscape"/>
+                android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="portrait"/>
         <!-- SDK -->
         <activity
             android:name="com.duoku.platform.single.ui.DKContainerActivity"
@@ -132,8 +132,8 @@
 
 		<provider
 		    android:name="com.baidu.android.pushservice.PushInfoProvider"
-		    android:authorities="air.amanita_design.samorost3.E2W.baidu.bdpush"
-		    android:writePermission="baidu.push.permission.WRITE_PUSHINFOPROVIDER.air.amanita_design.samorost3.E2W.baidu"
+		    android:authorities="com.drunkbytes.tikitaka.baidu.bdpush"
+		    android:writePermission="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.drunkbytes.tikitaka.baidu"
 		    android:protectionLevel = "signature"
 		    android:exported="true" />
 		
