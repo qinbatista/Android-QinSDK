@@ -21,47 +21,47 @@
             android:name="com.drunkbytes.tikitaka.baidu.GamePropsActivity"
             android:windowSoftInputMode="adjustUnspecified|stateHidden" 
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
-            android:screenOrientation="landscape"/>
+            android:screenOrientation="portrait"/>
         <activity
             android:name="com.drunkbytes.tikitaka.baidu.GameRechargeActivity"
                 android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
-            android:screenOrientation="landscape"/>
+            android:screenOrientation="portrait"/>
         <!-- SDK -->
         <activity
             android:name="com.duoku.platform.single.ui.DKContainerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale"
             android:theme="@style/DK.Theme.NoBackGround.NoAnimation"
-            android:screenOrientation="landscape">
+            android:screenOrientation="portrait">
         </activity>
         <activity
             android:name="com.duoku.platform.single.ui.DKRecommendActivity"
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden"
             android:theme="@style/DK.Theme.NoBackGround.NoAnimation"
-            android:screenOrientation="landscape">
+            android:screenOrientation="portrait">
         </activity>
         <activity
             android:name="com.duoku.platform.single.ui.DKStartDownloadActivity"
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden"
             android:theme="@style/dksdk_theme_dialog"
-            android:screenOrientation="landscape"/>
+            android:screenOrientation="portrait"/>
 		<activity
             android:name="com.duoku.platform.single.ui.DKLotteryDrawActivity"
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden"
             android:theme="@style/DK.Theme.NoBackGround.NoAnimation"
-            android:screenOrientation="landscape">
+            android:screenOrientation="portrait">
         </activity>
         
 		<activity
             android:name="com.duoku.platform.single.bdpass.DKAccountContainerActivity"
             android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden"
             android:theme="@style/DK.Theme.NoBackGround.NoAnimation"
-            android:screenOrientation="landscape">
+            android:screenOrientation="portrait">
         </activity>
 		
         <!-- alipay sdk begin -->
          <activity
             android:name="com.alipay.sdk.app.H5PayActivity"
-            android:screenOrientation="landscape" >
+            android:screenOrientation="portrait" >
         </activity>
         <!-- alipay sdk end -->
         
@@ -69,7 +69,7 @@
         <activity
             android:name="com.ipaynow.wechatpay.plugin.inner_plugin.wechat_plugin.activity.WeChatNotifyActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale"
-            android:screenOrientation="behind"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Translucent" >
         </activity>
         <!-- 聚合微信支付 end -->
@@ -167,7 +167,7 @@
             android:excludeFromRecents="true"
             android:exported="false"
             android:theme="@style/DK.Theme.NoBackGround.NoAnimation"
-            android:screenOrientation="landscape"/>
+            android:screenOrientation="portrait"/>
 
 
         <meta-data
