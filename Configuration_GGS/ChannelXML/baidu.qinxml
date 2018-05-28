@@ -19,12 +19,12 @@
         <!-- 不需要横竖屏 -->
         <activity
             android:name="com.drunkbytes.tikitaka.baidu.GamePropsActivity"
-            android:windowSoftInputMode="adjustUnspecified|stateHidden"
-            android:configChanges="orientation|keyboardHidden|navigation"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" 
+            android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
             android:screenOrientation="portrait"/>
         <activity
             android:name="com.drunkbytes.tikitaka.baidu.GameRechargeActivity"
-                android:configChanges="orientation|keyboardHidden|navigation"
+                android:configChanges="orientation|navigation|screenSize|keyboard|keyboardHidden" 
             android:screenOrientation="portrait"/>
         <!-- SDK -->
         <activity
@@ -69,7 +69,7 @@
         <activity
             android:name="com.ipaynow.wechatpay.plugin.inner_plugin.wechat_plugin.activity.WeChatNotifyActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale"
-            android:screenOrientation="behind"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Translucent" >
         </activity>
         <!-- 聚合微信支付 end -->
@@ -132,8 +132,8 @@
 
 		<provider
 		    android:name="com.baidu.android.pushservice.PushInfoProvider"
-		    android:authorities="com.drunkbytes.tikitaka.baidu.bdpush"
-		    android:writePermission="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.drunkbytes.tikitaka.baidu"
+		    android:authorities="air.amanita_design.samorost3.E2W.baidu.bdpush"
+		    android:writePermission="baidu.push.permission.WRITE_PUSHINFOPROVIDER.air.amanita_design.samorost3.E2W.baidu"
 		    android:protectionLevel = "signature"
 		    android:exported="true" />
 		
