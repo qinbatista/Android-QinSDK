@@ -27,7 +27,7 @@
 
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent1106673341" />
+                <data android:scheme="tencent1104846359" />
 
             </intent-filter>
 
@@ -45,7 +45,7 @@
 
         <activity
 
-            android:name="com.drunkbytes.tikitaka.yyb.wxapi.WXEntryActivity"
+            android:name="com.invictus.impossiball.wxapi.WXEntryActivity"
 
             android:excludeFromRecents="true"
 
@@ -59,7 +59,7 @@
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
 
-            android:taskAffinity="com.drunkbytes.tikitaka.yyb.diff">
+            android:taskAffinity="com.invictus.impossiball.diff">
 
             <intent-filter>
 
@@ -67,7 +67,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <data android:scheme="wx5af77505208c9e03" />
+                <data android:scheme="wx9b333e1d31da4f87" />
 
             </intent-filter>
 

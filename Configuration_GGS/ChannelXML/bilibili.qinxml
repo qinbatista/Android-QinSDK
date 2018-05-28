@@ -1,5 +1,4 @@
 <!--sdk-->
-      
 <activity
 android:name="com.drunkbytes.tikitaka.bilibili.wxapi.WXPayEntryActivity"
 android:exported="true"
@@ -55,7 +54,11 @@ android:name="com.bsgamesdk.android.activity.RegisterActivity"
 android:configChanges="keyboardHidden|navigation|orientation|screenSize"
 android:theme="@style/bsgamesdk_customDialog"
 android:launchMode="singleTop"/>
-
+<activity
+android:name="com.bsgamesdk.android.activity.LicenseAgreementActivity"
+android:configChanges="keyboardHidden|navigation|orientation|screenSize"
+android:theme="@style/bsgamesdk_customDialog"
+android:launchMode="singleTop"/>
 <activity
 android:name="com.alipay.sdk.app.H5PayActivity"
 android:configChanges="orientation|keyboardHidden|navigation"
@@ -66,10 +69,9 @@ android:name="com.alipay.sdk.auth.AuthActivity"
 android:configChanges="orientation|keyboardHidden|navigation"
 android:exported="false"
 android:screenOrientation="behind" />
-
-
 <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
-<activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity"/>
+<activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity"
+/>
 <activity
 android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" />
 <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
@@ -82,30 +84,29 @@ android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity" />
 <activity
 android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity" />
 <activity
-android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity"/>
+android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity"
+/>
 <service android:name="com.paypal.android.sdk.payments.PayPalService"
 android:exported="false" />
 <activity
 android:name="io.card.payment.CardIOActivity"
 android:configChanges="keyboardHidden|orientation" />
 <activity android:name="io.card.payment.DataEntryActivity" />
-
  <service  
           android:enabled="true" android:exported="true" android:name="com.bsgamesdk.android.dc.service.DcUpService"/>
 
 <!--end-->
 
 <!--sdkxml-->
-<uses-feature  android:name="android.hardware.camera" android:required="false"/>
-<uses-feature  android:name="android.hardware.camera.autofocus" android:required="false"/>
-
-<uses-permission android:name="android.permission.INTERNET"/>
-<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-<uses-permission android:name="android.permission.READ_PHONE_STATE" />
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-<uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
 
 <!--end-->
