@@ -1,6 +1,6 @@
 {
-	"APPID":"204017486",
-	"APPKEY":"f71a4d14c0daa457edc47a90f4fa02df",
+	"APPID":"803",
+	"APPKEY":"aa4ced7ed95f45d68982905eb65098bf",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -37,7 +37,7 @@
 		"dxpid":"004",
 		"channelpid":"a02",		
 		"pricefloat":"68.00",
-		"desc":"33000金币"						
+		"desc":"40000金币"						
 	},
 	"production5":
 	{
@@ -55,7 +55,7 @@
 		"dxpid":"006",
 		"channelpid":"a02",		
 		"pricefloat":"6.00",
-		"desc":"解锁关卡-1"						
+		"desc":"解锁后续关卡"						
 	},
 	"production7":
 	{
@@ -101,7 +101,6 @@
 		"channelpid":"a02",		
 		"pricefloat":"6.00",
 		"desc":"解锁关卡-6"						
-				
 	},
 	"production12":
 	{

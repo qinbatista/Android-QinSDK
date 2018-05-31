@@ -533,8 +533,8 @@
 
             <intent-filter>
 
-                <action android:name="com.east2west.mimpi.vip.iqiyi" />
-
+                <action android:name="com.drunkbytes.tikitaka.vip.iqiyi" />
+				
             </intent-filter>
 
         </service>
@@ -569,7 +569,7 @@
 
             android:name="com.iqiyi.iflex.RemoteContentProvider"
 
-            android:authorities="com.east2west.mimpi.vip.iqiyi"
+            android:authorities="com.drunkbytes.tikitaka.vip.iqiyi"
 
             android:exported="true"
 
@@ -605,7 +605,7 @@
 
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent7200" />
+                <data android:scheme="tencent7274" />
 
             </intent-filter>
 	</activity>
