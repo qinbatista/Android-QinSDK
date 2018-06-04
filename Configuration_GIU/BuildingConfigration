@@ -1,5 +1,5 @@
-	_path = "C:\GameCode\BaseAPK\GiveItUp\GiveItUp_Jrtt.apk"
-	Packagename = "com.invictus.impossiball.smartisan"
+	_path = "C:\GameCode\BaseAPK\GiveItUp\GiveItUp_Base.apk"
+	Packagename = "com.invictus.impossiball"
 	VersionName = "4.6.1"
 	VersionCode = "10002222"
-	AD = ""
+	AD = "vivo20180604"

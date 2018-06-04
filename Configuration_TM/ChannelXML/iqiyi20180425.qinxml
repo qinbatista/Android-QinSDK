@@ -609,8 +609,10 @@
 
             </intent-filter>
 	</activity>
+	
+	
+	
           <activity
-
             android:name="com.ppsgame.sdk.activity.PPSPushActivity"
 
             android:configChanges="orientation|keyboardHidden|screenSize"

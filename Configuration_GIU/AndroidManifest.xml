@@ -33,7 +33,7 @@
 		<meta-data android:name="MOBILE_SPLASH" android:value="" />
 		<meta-data android:name="E2W_LOG" android:value="open" />
 		<meta-data android:name="E2W_NUMBER" android:value="east2west1" />
-		<meta-data android:name="E2W_EXCHANGE" android:value="open"/>
+		<meta-data android:name="E2W_EXCHANGE" android:value=""/>
 		<!--sdk-->  
 		<!--end-->	
     </application>
