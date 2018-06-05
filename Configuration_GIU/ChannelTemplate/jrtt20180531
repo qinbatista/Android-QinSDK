@@ -1,7 +1,7 @@
 {
-	"APPID":"6ac1d249ad46d604",
-	"APPKEY":"b81ad0b8fb3dd8a581d02cd5759cafba,efc7febc9625f5308b03c7b42d12d59a",
-	"ADChannel":"",
+	"APPID": "6ac1d249ad46d604",
+	"APPKEY": "b81ad0b8fb3dd8a581d02cd5759cafba,efc7febc9625f5308b03c7b42d12d59a",
+	"ADChannel": "jrtt,5001616,901616301",
 	"SDKPay":"0,1",
 	"production1":
 	{
