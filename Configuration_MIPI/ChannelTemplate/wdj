@@ -1,97 +1,97 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"828939",
+	"APPKEY":"19065ebc8a974bdc1959c8c4e9224cab",	
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
-		"dxpid":"001",
+		"dxpid":"TOOL1",
 		"channelpid":"a02",
-		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"pricefloat":"9.00",
+		"desc":"解锁3-8关"
 	},
 	"production2":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"002",
+		"ltpid":"002",
+		"dxpid":"TOOL2",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
-		"desc":"2200点券"						
+		"pricefloat":"2.00",
+		"desc":"3个提示"						
 	},
 	"production3":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"003",
+		"ltpid":"003",
+		"dxpid":"TOOL3",
 		"channelpid":"a02",		
-		"pricefloat":"68.00",
-		"desc":"5000点券"						
+		"pricefloat":"5.00",
+		"desc":"10个提示"						
 	},
 	"production4":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"004",
+		"ltpid":"004",
+		"dxpid":"TOOL4",
 		"channelpid":"a02",		
-		"pricefloat":"128.00",
-		"desc":"11000点券"						
+		"pricefloat":"15.00",
+		"desc":"40个提示"						
 	},
 	"production5":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"005",
+		"ltpid":"005",
+		"dxpid":"TOOL5",
 		"channelpid":"a02",		
-		"pricefloat":"328.00",
-		"desc":"30000点券"						
+		"pricefloat":"30.00",
+		"desc":"100个提示"						
 	},
 	"production6":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"006",
+		"ltpid":"006",
+		"dxpid":"TOOL6",
 		"channelpid":"a02",		
-		"pricefloat":"648.00",
-		"desc":"70000点券"						
+		"pricefloat":"12.00",
+		"desc":"黄金米皮"						
 	},
 	"production7":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"007",
+		"ltpid":"007",
+		"dxpid":"TOOL7",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"命运女侠"						
+		"pricefloat":"6.00",
+		"desc":"米皮皮肤"						
 	},
 	"production8":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"008",
+		"ltpid":"008",
+		"dxpid":"TOOL9",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"风刃"						
+		"pricefloat":"25.00",
+		"desc":"小套装"						
 	},
 	"production9":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"009",
+		"ltpid":"009",
+		"dxpid":"TOOL9",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"虚空猎手"						
+		"pricefloat":"40.00",
+		"desc":"大套装"						
 	},
 	"production10":
 	{
-		"ydpid":"001",
-		"ltpid":"001",
-		"dxpid":"001",
+		"ydpid":"010",
+		"ltpid":"010",
+		"dxpid":"TOOL10",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
-		"desc":"超能博士"						
+		"pricefloat":"5.00",
+		"desc":"限时礼包"						
 	},
 	"production11":
 	{
@@ -139,3 +139,4 @@
 		"desc":"自由猎人"						
 	}
  }
+
