@@ -35,7 +35,7 @@
             android:name="com.xiaomi.gamecenter.push.GamePushService"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.east2west.IronMarine.mi.MI_GAME_PUSH"/>
+                <action android:name="com.east2west.Shadowmatic.mi.MI_GAME_PUSH"/>
             </intent-filter>
         </service>
 
@@ -48,6 +48,7 @@
 <!--end-->
 
 <!--sdkxml-->
+	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
 	<uses-permission android:name="com.xiaomi.sdk.permission.PAYMENT"/>
 	<uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
