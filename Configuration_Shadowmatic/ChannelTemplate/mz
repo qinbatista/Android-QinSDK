@@ -1,6 +1,6 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"3208250",
+	"APPKEY":"92afb9df82c04e5084aac0cd48287f41,A1Yue7Tjc5kLRyfkG1lBX2vxmIK73ZNF",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -10,7 +10,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",
 		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"desc":"解锁全版本"
 	},
 	"production2":
 	{

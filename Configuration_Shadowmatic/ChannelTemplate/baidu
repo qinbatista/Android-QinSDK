@@ -1,6 +1,6 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"11340558",
+	"APPKEY":"6b1pTiCTR3zsaXtxMOGpuBQo,ZWHC3id5KSeRBZ2zIjyVCUYOGxlKeCdc",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -8,72 +8,72 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",
-		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"channelpid":"48362",
+		"pricefloat":"6.00",
+		"desc":"新手包"
 	},
 	"production2":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"48363",		
 		"pricefloat":"30.00",
-		"desc":"2200点券"						
+		"desc":"组合包"						
 	},
 	"production3":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"48364",		
 		"pricefloat":"68.00",
-		"desc":"5000点券"						
+		"desc":"超大组合包"						
 	},
 	"production4":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"128.00",
-		"desc":"11000点券"						
+		"channelpid":"48365",		
+		"pricefloat":"6.00",
+		"desc":"小型撤销币包"						
 	},
 	"production5":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"328.00",
-		"desc":"30000点券"						
+		"channelpid":"48366",		
+		"pricefloat":"18.00",
+		"desc":"中型撤销币包"						
 	},
 	"production6":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"648.00",
-		"desc":"70000点券"						
+		"channelpid":"48367",		
+		"pricefloat":"30.00",
+		"desc":"大型撤销币包"						
 	},
 	"production7":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"命运女侠"						
+		"channelpid":"48368",		
+		"pricefloat":"6.00",
+		"desc":"小型重置劵包"						
 	},
 	"production8":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"风刃"						
+		"channelpid":"48369",		
+		"pricefloat":"12.00",
+		"desc":"中型重置劵包"						
 	},
 	"production9":
 	{
@@ -82,7 +82,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"18.00",
-		"desc":"虚空猎手"						
+		"desc":"大型重置劵包"						
 	},
 	"production10":
 	{
@@ -91,7 +91,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"30.00",
-		"desc":"超能博士"						
+		"desc":"小型通关道具包"						
 	},
 	"production11":
 	{
@@ -100,7 +100,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"30.00",
-		"desc":"达尔文"						
+		"desc":"中型通关道具包"						
 	},
 	"production12":
 	{
@@ -109,7 +109,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"45.00",
-		"desc":"铁甲马克 "						
+		"desc":"中型通关道具包 "						
 	},
 	"production13":
 	{
@@ -118,7 +118,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"18.00",
-		"desc":"解锁游戏"						
+		"desc":"大型通关道具包"						
 	},
 	"production14":
 	{
@@ -127,7 +127,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"18.00",
-		"desc":"桂英"						
+		"desc":"解锁后5章"						
 	},
 	"production15":
 	{
@@ -136,6 +136,6 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"30.00",
-		"desc":"自由猎人"						
+		"desc":"解锁后4章"						
 	}
  }

@@ -1,6 +1,6 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"2882303761517814749",
+	"APPKEY":"5181781485749",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -8,9 +8,9 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",
+		"channelpid":"A01",
 		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"desc":"解锁完整版"
 	},
 	"production2":
 	{
