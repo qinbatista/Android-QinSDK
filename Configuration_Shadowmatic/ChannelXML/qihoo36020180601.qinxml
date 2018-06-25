@@ -71,7 +71,7 @@
 
                 <!-- android host的值必须为游戏的包名 -->
 
-                <data android:host="com.drunkbytes.tikitaka.qihoo360"/>
+                <data android:host="com.east2west.Shadowmatic.qihoo360"/>
 
                  <!-- android scheme的值必须不能变-->
 
@@ -193,30 +193,20 @@
 
             android:name="QHOPENSDK_APPID"
 
-            android:value="204135131" >
+            android:value="204196011" >
 
         </meta-data>  
 
-      <meta-data
-
+	<meta-data
         android:name="QHOPENSDK_APPKEY"
-
-        android:value="f71a4d14c0daa457edc47a90f4fa02df" >
-
+        android:value="43b253b4eaed7abef9dd1dd5b19b36be" >
     </meta-data>
-
-
-
 
 
     <meta-data
-
         android:name="QHOPENSDK_PRIVATEKEY"
-
-        android:value="0386f077755f934364a0cd80bff21c44" >
-
+        android:value="a5b223a76543321620ea00d3a1e3c1df" >
     </meta-data>
-
         
 
          <!-- 以下是360游戏新版本实时推送PUSH SDK声明，不可修改 -->
@@ -317,7 +307,7 @@
 
         <provider
 
-            android:authorities="com.drunkbytes.tikitaka.qihoo360.cx.accounts.syncprovider"
+            android:authorities="com.east2west.Shadowmatic.qihoo360.cx.accounts.syncprovider"
 
             android:name="com.qihoo.pushsdk.keepalive.account.SyncProvider"/>
 
@@ -467,7 +457,7 @@
 
                 <!-- host必须是游戏cp自己的appkey -->
 
-                <data android:host="f71a4d14c0daa457edc47a90f4fa02df"
+                <data android:host="43b253b4eaed7abef9dd1dd5b19b36be0"
 
                     android:pathPrefix="/opengames"
 

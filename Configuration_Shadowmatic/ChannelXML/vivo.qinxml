@@ -15,7 +15,7 @@
 	</activity>
 
 	<activity
-		android:name="com.east2west.IronMarine.vivo.wxapi.WXPayEntryActivity"
+		android:name="com.east2west.Shadowmatic.vivo.wxapi.WXPayEntryActivity"
 		android:exported="true"
 		android:theme="@android:style/Theme.Translucent.NoTitleBar"
 		android:launchMode="singleTop"/>
@@ -29,7 +29,7 @@
 			<action android:name="android.intent.action.VIEW" />
 			<category android:name="android.intent.category.BROWSABLE"/>
 			<category android:name="android.intent.category.DEFAULT"/>
-			<data android:scheme="qwalletcom.east2west.IronMarine.vivo"/>
+			<data android:scheme="qwalletcom.east2west.Shadowmatic.vivo"/>
 		</intent-filter>
 	</activity>
 
@@ -72,6 +72,7 @@
 <!--end-->
 
 <!--sdkxml-->
+	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23" />
 	<uses-permission android:name="vivo.game.permission.OPEN_JUMP_INTENTS" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>

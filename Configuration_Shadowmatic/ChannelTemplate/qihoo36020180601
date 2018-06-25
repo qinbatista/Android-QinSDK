@@ -1,6 +1,6 @@
 {
 	"APPID": "204196011",
-	"APPKEY": "43b253b4eaed7abef9dd1dd5b19b36be",
+	"APPKEY": "43b253b4eaed7abef9dd1dd5b19b36be,a5b223a76543321620ea00d3a1e3c1df",
 	"ADChannel": "",
 	"SDKPay": "0,1",
 	"production1": {
@@ -9,7 +9,7 @@
 		"dxpid": "001",
 		"channelpid": "a02",
 		"pricefloat": "18.00",
-		"desc": "1200点券"
+		"desc": "解锁全版本"
 	},
 	"production2": {
 		"ydpid": "001",
