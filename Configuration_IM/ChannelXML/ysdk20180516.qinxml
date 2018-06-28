@@ -39,7 +39,7 @@
 
             android:configChanges="orientation|screenSize|keyboardHidden"
 
-            android:screenOrientation="landscape"
+            android:screenOrientation="portrait"
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
@@ -113,7 +113,7 @@
 
                 <category android:name="android.intent.category.DEFAULT"/>
 
-                <data android:scheme="qwallet1106447990"/>
+                <data android:scheme="qwallet100703379"/>
 
             </intent-filter>
 
