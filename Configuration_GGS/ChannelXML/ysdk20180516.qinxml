@@ -27,7 +27,7 @@
 
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="tencent1106447990" />
+                <data android:scheme="tencent1106673341" />
 
             </intent-filter>
 
@@ -39,13 +39,13 @@
 
             android:configChanges="orientation|screenSize|keyboardHidden"
 
-            android:screenOrientation="landscape"
+            android:screenOrientation="portrait"
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <activity
 
-            android:name="com.east2west.IronMarine.yyb.wxapi.WXEntryActivity"
+            android:name="com.drunkbytes.tikitaka.yyb.wxapi.WXEntryActivity"
 
             android:excludeFromRecents="true"
 
@@ -59,7 +59,7 @@
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
 
-            android:taskAffinity="com.east2west.IronMarine.yyb.diff">
+            android:taskAffinity="com.drunkbytes.tikitaka.yyb.diff">
 
             <intent-filter>
 
@@ -67,7 +67,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <data android:scheme="wx80c99bb46c7749b5" />
+                <data android:scheme="wx5af77505208c9e03" />
 
             </intent-filter>
 
@@ -79,7 +79,7 @@
 
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
 
-            android:screenOrientation="sensorLandscape"
+            android:screenOrientation="sensorPortrait"
 
             android:configChanges="orientation|keyboardHidden|screenSize" />
 
@@ -113,7 +113,7 @@
 
                 <category android:name="android.intent.category.DEFAULT"/>
 
-                <data android:scheme="qwallet1106447990"/>
+                <data android:scheme="qwallet100703379"/>
 
             </intent-filter>
 
@@ -129,7 +129,7 @@
 
             android:name="UMENG_APPKEY"
 
-            android:value="JPzzIdsJdnSaR1BOnMMA9fQXX60g52ip" >
+            android:value="548e3eeefd98c565e9000ff6" >
 
         </meta-data>
 
