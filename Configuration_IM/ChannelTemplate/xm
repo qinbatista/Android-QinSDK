@@ -116,8 +116,8 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"c01",		
-		"pricefloat":"18.00",
+		"channelpid":"L01",		
+		"pricefloat":"6.00",
 		"desc":"解锁后续关卡"						
 	},
 	"production14":
@@ -126,7 +126,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"c02",		
-		"pricefloat":"18.00",
+		"pricefloat":"30.00",
 		"desc":"解锁后续关卡"						
 	},
 	"production15":

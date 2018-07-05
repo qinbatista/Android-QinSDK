@@ -1,5 +1,5 @@
 {
-	"APPID":"",
+	"APPID":"118555",
 	"APPKEY":"",
 	"ADChannel":"",
 	"SDKPay":"0,1",
@@ -10,7 +10,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",
 		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"desc":"解锁全部剧情"
 	},
 	"production2":
 	{
