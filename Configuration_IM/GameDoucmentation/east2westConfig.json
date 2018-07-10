@@ -4,7 +4,7 @@
 		"credits_pack_best_value": "offer_credits_pack6",
 		"push_notifications_min_stage_completed": "3",
 		"ads_enabled": "false",
-		"ads_map_button_enabled": "true",
+		"ads_map_button_enabled": "false",
 		"unity_remote_settings_override": "true",
 		"restore_content_server": "https://restore.ironhidegames.com/",
 		"stages_reward_multiplier_xp": "1.0",
@@ -145,6 +145,20 @@
 	},
 	{
 		"com.ironhidegames.ironmarines.special_pack2": {
+			"paycode": "d02",
+			"pricefloat": "1500.00",
+			"des": "点券星球"
+		}
+	},
+	{
+		"com.ironhidegames.ironmarines.special_pack5": {
+			"paycode": "d02",
+			"pricefloat": "1500.00",
+			"des": "点券星球"
+		}
+	},
+	{
+		"com.ironhidegames.ironmarines.special_pack7": {
 			"paycode": "d02",
 			"pricefloat": "1500.00",
 			"des": "点券星球"
@@ -491,9 +505,9 @@
 		}],
 		"metadata": {
 			"value": "2",
-			"offerType": "holyday_summersale",
+			"offerType": "starter",
 			"unique": "true",
-			"endingDate": "07/06/2018 00:00:00"
+			"endingDate": "07/11/2018 00:00:00"
 		}
 	}],
 	"powerOffers": [{
