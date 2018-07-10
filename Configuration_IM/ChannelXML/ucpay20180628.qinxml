@@ -113,6 +113,7 @@
 
 <!--end-->
 <!--sdkxml-->
+	<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="22"/>
   <uses-permission android:name="android.permission.INTERNET" />
 
    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />

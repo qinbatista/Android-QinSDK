@@ -1,6 +1,6 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"27a1a262dc2a55199be4a0a8f37be6f4",
+	"APPKEY":"20160510170333542404,669ca42c9f03baf851c19412fc7fb342",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -10,7 +10,7 @@
 		"dxpid":"001",
 		"channelpid":"a02",
 		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"desc":"解锁全部剧情"
 	},
 	"production2":
 	{

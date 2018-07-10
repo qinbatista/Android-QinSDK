@@ -1,6 +1,6 @@
 {
-	"APPID":"",
-	"APPKEY":"",
+	"APPID":"2882303761517616655",
+	"APPKEY":"5181761673655",
 	"ADChannel":"",
 	"SDKPay":"0,1",
 	"production1":
@@ -8,9 +8,9 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",
+		"channelpid":"a01",
 		"pricefloat":"18.00",
-		"desc":"1200点券"
+		"desc":"少许点券"
 	},
 	"production2":
 	{
@@ -19,50 +19,50 @@
 		"dxpid":"001",
 		"channelpid":"a02",		
 		"pricefloat":"30.00",
-		"desc":"2200点券"						
+		"desc":"成包点券"						
 	},
 	"production3":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"a03",		
 		"pricefloat":"68.00",
-		"desc":"5000点券"						
+		"desc":"成箱点券"						
 	},
 	"production4":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"a04",		
 		"pricefloat":"128.00",
-		"desc":"11000点券"						
+		"desc":"成堆点券"						
 	},
 	"production5":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"a05",		
 		"pricefloat":"328.00",
-		"desc":"30000点券"						
+		"desc":"成窖点券"						
 	},
 	"production6":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"a06",		
 		"pricefloat":"648.00",
-		"desc":"70000点券"						
+		"desc":"点券星球"						
 	},
 	"production7":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b01",		
 		"pricefloat":"18.00",
 		"desc":"命运女侠"						
 	},
@@ -71,7 +71,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b02",		
 		"pricefloat":"18.00",
 		"desc":"风刃"						
 	},
@@ -80,7 +80,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b03",		
 		"pricefloat":"18.00",
 		"desc":"虚空猎手"						
 	},
@@ -89,7 +89,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b04",		
 		"pricefloat":"30.00",
 		"desc":"超能博士"						
 	},
@@ -98,7 +98,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b05",		
 		"pricefloat":"30.00",
 		"desc":"达尔文"						
 	},
@@ -107,7 +107,7 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
+		"channelpid":"b06",		
 		"pricefloat":"45.00",
 		"desc":"铁甲马克 "						
 	},
@@ -116,18 +116,18 @@
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"解锁游戏"						
+		"channelpid":"L01",		
+		"pricefloat":"6.00",
+		"desc":"解锁后续关卡"						
 	},
 	"production14":
 	{
 		"ydpid":"001",
 		"ltpid":"001",
 		"dxpid":"001",
-		"channelpid":"a02",		
-		"pricefloat":"18.00",
-		"desc":"桂英"						
+		"channelpid":"c02",		
+		"pricefloat":"30.00",
+		"desc":"解锁后续关卡"						
 	},
 	"production15":
 	{

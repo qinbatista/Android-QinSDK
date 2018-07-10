@@ -1,0 +1,126 @@
+{
+	"APPID": "7273",
+	"APPKEY": "",
+	"ADChannel": "",
+	"SDKPay": "0,1",
+	"production1": {
+		"ydpid": "011",
+		"ltpid": "012",
+		"dxpid": "TOOL12",
+		"channelpid": "a02",
+		"pricefloat": "6.00",
+		"desc": "微型金币包"
+	},
+	"production2": {
+		"ydpid": "012",
+		"ltpid": "016",
+		"dxpid": "TOOL16",
+		"channelpid": "a02",
+		"pricefloat": "12.00",
+		"desc": "小型金币包"
+	},
+	"production3": {
+		"ydpid": "013",
+		"ltpid": "014",
+		"dxpid": "TOOL14",
+		"channelpid": "a02",
+		"pricefloat": "20.00",
+		"desc": "中型金币包"
+	},
+	"production4": {
+		"ydpid": "014",
+		"ltpid": "017",
+		"dxpid": "TOOL17",
+		"channelpid": "a02",
+		"pricefloat": "30.00",
+		"desc": "大型金币包"
+	},
+	"production5": {
+		"ydpid": "015",
+		"ltpid": "018",
+		"dxpid": "TOOL18",
+		"channelpid": "a02",
+		"pricefloat": "50.00",
+		"desc": "巨型金币包"
+	},
+	"production6": {
+		"ydpid": "007",
+		"ltpid": "007",
+		"dxpid": "TOOL6",
+		"channelpid": "a02",
+		"pricefloat": "1.00",
+		"desc": "1颗心"
+	},
+	"production7": {
+		"ydpid": "007",
+		"ltpid": "007",
+		"dxpid": "TOOL7",
+		"channelpid": "a02",
+		"pricefloat": "2.00",
+		"desc": "3颗心"
+	},
+	"production8": {
+		"ydpid": "008",
+		"ltpid": "008",
+		"dxpid": "TOOL8",
+		"channelpid": "a02",
+		"pricefloat": "3.00",
+		"desc": "5颗心"
+	},
+	"production9": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "18.00",
+		"desc": "虚空猎手"
+	},
+	"production10": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "30.00",
+		"desc": "超能博士"
+	},
+	"production11": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "30.00",
+		"desc": "达尔文"
+	},
+	"production12": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "45.00",
+		"desc": "铁甲马克 "
+	},
+	"production13": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "18.00",
+		"desc": "解锁游戏"
+	},
+	"production14": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "18.00",
+		"desc": "桂英"
+	},
+	"production15": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "30.00",
+		"desc": "自由猎人"
+	}
+}

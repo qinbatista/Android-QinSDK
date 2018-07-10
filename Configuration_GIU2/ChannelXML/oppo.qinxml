@@ -14,7 +14,7 @@
 			
 		<meta-data android:name="debug_mode" android:value="false" />   
 		<meta-data android:name="is_offline_game" android:value="true" /> 
-		<meta-data android:name="app_key" android:value="BQh0W0ya8FSws8scO4404ckOk" /> 
+		<meta-data android:name="app_key" android:value="6VS99V9uE1CSsc084GC448w4" /> 
 <!--end-->
 
 <!--sdkxml-->

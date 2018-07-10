@@ -15,7 +15,7 @@
 	</activity>
 
 	<activity
-		android:name="com.east2west.IronMarine.vivo.wxapi.WXPayEntryActivity"
+		android:name="com.east2west.thehouseofdavinci.vivo.wxapi.WXPayEntryActivity"
 		android:exported="true"
 		android:theme="@android:style/Theme.Translucent.NoTitleBar"
 		android:launchMode="singleTop"/>
@@ -29,7 +29,7 @@
 			<action android:name="android.intent.action.VIEW" />
 			<category android:name="android.intent.category.BROWSABLE"/>
 			<category android:name="android.intent.category.DEFAULT"/>
-			<data android:scheme="qwalletcom.east2west.IronMarine.vivo"/>
+			<data android:scheme="qwalletcom.east2west.thehouseofdavinci.vivo"/>
 		</intent-filter>
 	</activity>
 
