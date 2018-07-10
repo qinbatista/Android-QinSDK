@@ -1,4 +1,4 @@
-	_path = "C:\GameCode\BaseAPK\TheHouseOfDaVinc\TheHouseOfDaVinc_full.apk"
+	_path = "C:\GameCode\BaseAPK\TheHouseOfDaVinc\TheHouseOfDaVinc_test.apk"
 	Packagename = "com.east2west.thehouseofdavinci.nearme.gamecenter"
 	VersionName = "1.0.0"
 	VersionCode = "10"

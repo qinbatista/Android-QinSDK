@@ -1,11 +1,8 @@
 <!--sdk-->
         <!--         游戏是否为付费游戏,true/false -->
-
-
-
         <meta-data
             android:name="BSGameSdk_PaidGame"
-            android:value="true" />
+            android:value="false" />
 			
 		<activity
             android:name="com.east2west.IronMarine.drm.bilibili.wxapi.WXPayEntryActivity"
@@ -22,12 +19,11 @@
             android:theme="@style/bsgamesdk_customDialog" >
         </activity>
         <activity
-
             android:name="com.bsgamesdk.android.activity.PaymentActivity"
             android:configChanges="keyboardHidden|navigation|orientation|screenSize"
 			android:screenOrientation="portrait"
             android:theme="@style/bsgamesdk_customPaymentTheme" 
-            android:launchMode="singleTop"
+            android:launchMode="singleTop">
         </activity>
 
         <activity

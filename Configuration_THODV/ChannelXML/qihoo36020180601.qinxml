@@ -71,7 +71,7 @@
 
                 <!-- android host的值必须为游戏的包名 -->
 
-                <data android:host="com.drunkbytes.tikitaka.qihoo360"/>
+                <data android:host="com.east2west.thehouseofdavinci.qihoo360"/>
 
                  <!-- android scheme的值必须不能变-->
 
@@ -193,28 +193,19 @@
 
             android:name="QHOPENSDK_APPID"
 
-            android:value="204135131" >
+            android:value="204202186" >
 
         </meta-data>  
 
-      <meta-data
-
+     <meta-data
         android:name="QHOPENSDK_APPKEY"
-
-        android:value="f71a4d14c0daa457edc47a90f4fa02df" >
-
+        android:value="a5e28bc1695a9b5554e3d160f234450e" >
     </meta-data>
 
 
-
-
-
     <meta-data
-
         android:name="QHOPENSDK_PRIVATEKEY"
-
-        android:value="0386f077755f934364a0cd80bff21c44" >
-
+        android:value="f7555878570e3b6b189c39858bec509f" >
     </meta-data>
 
         
@@ -317,7 +308,7 @@
 
         <provider
 
-            android:authorities="com.drunkbytes.tikitaka.qihoo360.cx.accounts.syncprovider"
+            android:authorities="com.east2west.thehouseofdavinci.qihoo360.cx.accounts.syncprovider"
 
             android:name="com.qihoo.pushsdk.keepalive.account.SyncProvider"/>
 
