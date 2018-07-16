@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-	_path = "C:\GameCode\BaseAPK\IronMarine\IM20180710.apk"
+
+	_path = "C:\GameCode\BaseAPK\IronMarine\IM20180711.apk"
 	Packagename = "com.east2west.IronMarine.vip.iqiyi"
 	VersionName = "1.2.4"
 	VersionCode = "120"
-=======
-	_path = "C:\GameCode\BaseAPK\IronMarine\com.ironhidegames.android.ironmarines.e2w-1.2.9_63.apk"
-	Packagename = "com.east2west.IronMarine.smartisan"
-	VersionName = "1.2.5"
-	VersionCode = "125"
->>>>>>> remotes/origin/yyz
-	AD = ""
