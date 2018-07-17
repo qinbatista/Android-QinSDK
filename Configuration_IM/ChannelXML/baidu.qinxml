@@ -1,13 +1,13 @@
 <!--sdk-->
           <meta-data
           android:name="dksdk_appid"
-          android:value="8915035" />
+          android:value="10815445" />
           <meta-data
           android:name="dksdk_appkey"
-          android:value="jQlYkrvlQMl9kwqbGz1XGMkK" />
+          android:value="ISL0PwQPFBbGmGqhSBMMaRZQ" />
           <meta-data
           android:name="dksdk_appsecret"
-          android:value="cl0ap4BWM9qxTwfKupBInztxKYnWaxGz" />
+          android:value="dT5KdtTsb3K5opEwWPhiuNGGZ05RmX7O" />
           <meta-data
           android:name="dksdk_channel"
           android:value="14146" />
