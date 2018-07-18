@@ -17,3 +17,6 @@ iapIdentifier：对应iaps的表
 rewards：奖励表
 duration：持续时间
 endingDate：结束时间
+
+修改解锁弹窗：
+解压unity，查找UNLOCK_CONTENT_REWARD
