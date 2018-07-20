@@ -1,4 +1,4 @@
-"configuration"
+﻿"configuration"
 "campaign_locked" : "true"
 是否锁住关卡
 "campaign_lock_stage" : "2",
@@ -20,3 +20,11 @@ endingDate：结束时间
 
 修改解锁弹窗：
 解压unity，查找UNLOCK_CONTENT_REWARD
+
+
+广告控制：
+"ads_enabled": "true",
+"ads_map_button_enabled": "true",
+offer_credits_pack_ads 价格
+
+
