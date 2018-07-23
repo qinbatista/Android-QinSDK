@@ -122,5 +122,31 @@
 		"channelpid": "a02",
 		"pricefloat": "30.00",
 		"desc": "自由猎人"
+	},
+	"production16": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "48.00",
+		"desc": "大礼包1"
+	},
+	"production17": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "15.00",
+		"desc": "大礼包2"	
+	},
+	"production18": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "28.00",
+		"desc": "大礼包3"
+		
 	}
+	
 }
