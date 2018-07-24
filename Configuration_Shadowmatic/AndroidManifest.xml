@@ -26,7 +26,7 @@
 		
 		<meta-data android:name="android.max_aspect" android:value="2.2"/>
         <meta-data android:name="CHANNEL_NAME" android:value=""/>
-        <meta-data android:name="MOBILE_SPLASH" android:value="open"/>
+        <meta-data android:name="MOBILE_SPLASH" android:value="close"/>
         <meta-data android:name="E2W_LOG" android:value="open"/>
         <meta-data android:name="E2W_NUMBER" android:value="east2west1"/>
         <meta-data android:name="splash_duration" android:value="2.5"/>
