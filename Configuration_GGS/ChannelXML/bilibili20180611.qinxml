@@ -1,4 +1,14 @@
 <!--sdk-->
+
+	 <!--         游戏是否为付费游戏,true/false -->
+        <meta-data
+            android:name="BSGameSdk_PaidGame"
+            android:value="false" />
+	
+	<activity
+            android:name="com.drunkbytes.tikitaka.bilibili.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"/>
         <!-- 1.8.1新增 -->
 
         <activity

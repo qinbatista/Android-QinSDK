@@ -1,6 +1,6 @@
 {
-	"APPID": "1213",
-	"APPKEY": "eu65svd3rzbeujfafrqh92ev7qf9msyx",
+	"APPID": "1214",
+	"APPKEY": "204,1436,3dd656618d48425699c492902551f7fc,35130e2829e549e982ccf67a382f4ad0",
 	"ADChannel": "",
 	"SDKPay": "0,1",
 	"production1": {
@@ -122,5 +122,31 @@
 		"channelpid": "a02",
 		"pricefloat": "30.00",
 		"desc": "自由猎人"
+	},
+	"production16": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "48.00",
+		"desc": "大礼包1"
+	},
+	"production17": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "15.00",
+		"desc": "大礼包2"	
+	},
+	"production18": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "28.00",
+		"desc": "大礼包3"
+		
 	}
+	
 }

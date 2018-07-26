@@ -1,14 +1,19 @@
+
 <!--sdk-->
         <!--         游戏是否为付费游戏,true/false -->
         <meta-data
             android:name="BSGameSdk_PaidGame"
-            android:value="false" />
+            android:value="true" />
 			
 		<activity
             android:name="com.east2west.IronMarine.drm.bilibili.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:launchMode="singleTop"/>
-		
+		<service  
+			android:enabled="true" 
+			android:exported="true" 
+			android:name="com.bsgamesdk.android.dc.service.DcUpService"/>
+
    <!-- 1.8.1新增 -->
 
         <activity
