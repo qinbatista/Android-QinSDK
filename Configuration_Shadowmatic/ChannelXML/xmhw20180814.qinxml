@@ -74,5 +74,5 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-
+	<uses-permission android:name="com.xiaomi.permission.AUTH_SERVICE" />
 <!--end-->
