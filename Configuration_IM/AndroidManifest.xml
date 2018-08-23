@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.ironhidegames.android.ironmarines.e2w" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415" versionCode="99" versionName="1.2.4">
     <application android:allowBackup="true" android:debuggable="false" android:icon="@drawable/app_icon" android:isGame="false" 
 	android:label="@string/app_name" android:name="cn.east2west.games.SimpleSdkApplication" android:supportsRtl="true">
-        <activity android:configChanges="locale|fontScale|keyboard|keyboardHidden|layoutDirection|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.ironhidegames.android.e2w.E2WUnityActivity" android:screenOrientation="sensorLandscape">
+        <activity android:configChanges="locale|fontScale|keyboard|keyboardHidden|layoutDirection|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="standard" android:name="com.ironhidegames.android.e2w.E2WUnityActivity" android:screenOrientation="sensorLandscape">
 			<!--main-->
 			<intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -17,8 +17,6 @@
         <meta-data android:name="MOBILE_SPLASH" android:value="close"/>
         <meta-data android:name="E2W_LOG" android:value="open"/>
         <meta-data android:name="CHANNEL_SPLASH" android:value=""/>
-        <meta-data android:name="UMENG_APPKEY" android:value="59b666f9734be4430700005a"/>
-        <meta-data android:name="UMENG_CHANNEL" android:value="east2west"/>
         <meta-data android:name="E2W_NUMBER" android:value="east2west1"/>
 		<meta-data android:name="E2W_EXCHANGE" android:value="close"/>
         <meta-data android:name="io.fabric.ApiKey" android:value="b67c3a4d476d62ead6e2b38fd97fdea2279b3249"/>
@@ -45,7 +43,6 @@
 		<!--end-->
 	</application>
 	<!-- allchannelstart -->
-	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>

@@ -21,6 +21,7 @@
 <!--end-->
 
 <!--sdkxml-->
+	
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.GET_TASKS" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
