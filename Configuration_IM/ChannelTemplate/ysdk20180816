@@ -1,9 +1,9 @@
 {
-	"APPID": "JPzzIdsJdnSaR1BOnMMA9fQXX60g52ip",
+	"APPID": "G8vnaA1eywHket5jP9jwEUQr4mWiL4Sf",
 	"APPKEY": "",
 	"ADChannel": "",
 	"SDKPay": "0,1",
-"production1": {
+	"production1": {
 		"ydpid": "001",
 		"ltpid": "001",
 		"dxpid": "001",
