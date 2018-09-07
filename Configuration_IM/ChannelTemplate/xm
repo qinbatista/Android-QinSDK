@@ -72,7 +72,7 @@
 		"ltpid": "001",
 		"dxpid": "001",
 		"channelpid": "b03",
-		"pricefloat": "30.00",
+		"pricefloat": "18.00",
 		"desc": "虚空猎手"
 	},
 	"production10": {
@@ -88,7 +88,7 @@
 		"ltpid": "001",
 		"dxpid": "001",
 		"channelpid": "b05",
-		"pricefloat": "18.00",
+		"pricefloat": "30.00",
 		"desc": "达尔文"
 	},
 	"production12": {
@@ -103,7 +103,7 @@
 		"ydpid": "001",
 		"ltpid": "001",
 		"dxpid": "001",
-		"channelpid": "L01",
+		"channelpid": "d01",
 		"pricefloat": "18.00",
 		"desc": "解锁游戏"
 	},
