@@ -63,7 +63,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
+		"pricefloat":"9.00",
 		"desc":"命运女侠"						
 	},
 	"production8":
@@ -72,7 +72,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
+		"pricefloat":"9.00",
 		"desc":"风刃"						
 	},
 	"production9":
@@ -81,7 +81,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"18.00",
+		"pricefloat":"12.00",
 		"desc":"虚空猎手"						
 	},
 	"production10":
@@ -90,7 +90,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
+		"pricefloat":"12.00",
 		"desc":"超能博士"						
 	},
 	"production11":
@@ -99,7 +99,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"30.00",
+		"pricefloat":"9.00",
 		"desc":"达尔文"						
 	},
 	"production12":
@@ -108,7 +108,7 @@
 		"ltpid":"001",
 		"dxpid":"001",
 		"channelpid":"a02",		
-		"pricefloat":"45.00",
+		"pricefloat":"18.00",
 		"desc":"铁甲马克 "						
 	},
 	"production13":
