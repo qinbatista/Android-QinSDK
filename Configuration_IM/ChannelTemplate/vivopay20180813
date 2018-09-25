@@ -147,6 +147,30 @@
 		"pricefloat": "19.00",
 		"desc": "大礼包3"
 		
+	},
+	"production19": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "18.00",
+		"desc": "星爵"	
+	},
+	"production20": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "30.00",
+		"desc": "赛帕斯"	
+	},
+	"production21": {
+		"ydpid": "001",
+		"ltpid": "001",
+		"dxpid": "001",
+		"channelpid": "a02",
+		"pricefloat": "45.00",
+		"desc": "青翼"	
 	}
 	
  }
