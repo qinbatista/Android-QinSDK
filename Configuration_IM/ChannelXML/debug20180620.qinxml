@@ -3,6 +3,6 @@
 
 <!--end-->
 <!--sdkxml-->
-  
+  	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="26"/>
 
 <!--end-->
