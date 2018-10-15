@@ -21,6 +21,5 @@ def GetPythonCommand():
 	print("Your are using python command:"+PythonVersion)
 	return PythonVersion
 def main():
-	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/taptap.py Configuration_Shadowmatic")
-if __name__=='__main__':
+	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/taptap.py Configuration_Shadowmatic")if __name__=='__main__':
     main()
