@@ -1,5 +1,5 @@
 
-	_path = "C:\GameCode\BaseAPK\IronMarine\IM_DEMO.apk"
+	_path = "/Users/yupengqin/OneDrive/BaseAPK/IronMarine/IM_DEMO.apk"
 	Packagename = "com.east2west.IronMarine"
 	VersionName = "1.2.6"
 	VersionCode = "126"
