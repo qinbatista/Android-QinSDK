@@ -21,5 +21,6 @@ def GetPythonCommand():
 	print("Your are using python command:"+PythonVersion)
 	return PythonVersion
 def main():
-	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/vivopay20180813.py Configuration_GIU2")if __name__=='__main__':
+	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/vivopay20180813.py Configuration_GIU2")
+if __name__=='__main__':
     main()
