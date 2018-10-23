@@ -9,7 +9,7 @@
 
         <!-- true:单机游戏 false:网游 -->
 
-        <meta-data android:name="app_key" android:value="47RdbtaahXyC0ss0cwc0Ow8WK"/>
+        <meta-data android:name="app_key" android:value="49ea6a8b159d40c8a3efe08e6f0cea0d"/>
 
         <!--appKey，游戏上线时请务必替换成游戏自身的 appkey-->
 
