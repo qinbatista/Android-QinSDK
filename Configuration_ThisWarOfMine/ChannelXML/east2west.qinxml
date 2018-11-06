@@ -15,7 +15,7 @@
         </activity>
 		
         <activity
-            android:name="com.ironhidegames.android.ironmarines.e2w.wxapi.WXPayEntryActivity"
+            android:name="com.elevenbitstudios.twommobile.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:launchMode="singleTop" />
 <!--end-->
