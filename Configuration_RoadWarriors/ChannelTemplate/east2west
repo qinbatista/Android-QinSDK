@@ -1,8 +1,9 @@
 {
 	"APPID":"",
 	"APPKEY":"",
-	"ADChannel":"",
+	"ADChannel":"YOMOD20181112,9556r3549R3R781O62g0,fMnIzGvdfIC5xcEcfZj",
 	"SDKPay":"0,1",
+	"VerifyKey":"2e350b20908ee607b15de3f9975388df",
 	"production1":
 	{
 		"ydpid":"001",

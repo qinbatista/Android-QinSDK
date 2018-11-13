@@ -3,6 +3,7 @@
 	"APPKEY":"",
 	"ADChannel":"",
 	"SDKPay":"0,1",
+	"VerifyKey":"",
 	"production1":
 	{
 		"ydpid":"001",
