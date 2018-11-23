@@ -1,7 +1,7 @@
 {
-	"APPID":"",
-	"APPKEY":"",
-	"ADChannel":"",
+	"APPID":"aaa",
+	"APPKEY":"bbbb",
+	"ADChannel":"jinsanyun20181123,767b95db,73b3a2be",
 	"SDKPay":"0,1",
 	"VerifyKey":"",
 	"production1":
