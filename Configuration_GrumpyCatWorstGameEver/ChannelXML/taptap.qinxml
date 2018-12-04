@@ -15,13 +15,12 @@
         </activity>
 		
         <activity
-            android:name="com.ironhidegames.android.ironmarines.e2w.wxapi.WXPayEntryActivity"
+            android:name="com.east2west.IronMarine.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:launchMode="singleTop" />
 <!--end-->
 
 <!--sdkxml-->
-<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.GET_TASKS" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
