@@ -3,7 +3,7 @@
 
 		<meta-data android:name="is_offline_game" android:value="true" />  <!-- true:单机游戏   false:网游 -->
 
-		<meta-data android:name="app_key" android:value="BQh0W0ya8FSws8scO4404ckOk" />  <!-- appKey -->
+		<meta-data android:name="app_key" android:value="a443259c035146fcad86e18bd217df82" />  <!-- appKey -->
 
 		
 
