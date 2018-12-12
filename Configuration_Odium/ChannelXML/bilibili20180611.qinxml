@@ -13,8 +13,10 @@
 
         </activity>
 
-               
-
+        <service  
+        android:enabled="true" android:exported="true" android:name="com.bsgamesdk.android.dc.service.DcUpService"/>
+        <activity  
+        android:exported="true" android:launchMode="singleTop" android:name="com.east2west.Odium.bilibili.wxapi.WXPayEntryActivity"/>
         <activity
 
             android:name="com.bsgamesdk.android.activity.PaymentActivity"
