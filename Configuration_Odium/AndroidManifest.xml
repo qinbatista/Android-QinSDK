@@ -35,7 +35,7 @@
         <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.xiaomi.gamecenter.alipay.HyAlipayActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.xiaomi.account.openauth.AuthorizeActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <activity android:configChanges="orientation|screenSize" android:exported="true" android:name="com.xiaomi.gamecenter.wxwap.HyWxWappayActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
-        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        
         <meta-data android:name="unity.build-id" android:value="6d8da5c1-99c1-4600-9ace-13693e56e5ad"/>
         <meta-data android:name="unity.splash-mode" android:value="2"/>
         <meta-data android:name="unity.splash-enable" android:value="true"/>
