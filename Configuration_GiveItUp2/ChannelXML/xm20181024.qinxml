@@ -71,7 +71,7 @@
 
             <intent-filter>
 
-                <action android:name="com.AmanitaDesign.Machinarium.MI_GAME_PUSH"/>
+                <action android:name="com.invictus.giveitup2.mi.MI_GAME_PUSH"/>
 
             </intent-filter>
 
