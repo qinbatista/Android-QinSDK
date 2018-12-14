@@ -14,7 +14,7 @@
         </activity>
 
         <meta-data android:name="io.fabric.ApiKey" android:value="90c10318118ecccefb7a58fc33d75520e7be4b6e"/>
-        <provider android:authorities="com.triadastudio.shadowmatic.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
+        <provider android:authorities="${applicationId}.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
         <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
         </provider>
         <provider android:authorities="com.triadastudio.shadowmatic.e2w.crashlyticsinitprovider" android:exported="false" android:initOrder="100" android:name="com.crashlytics.android.CrashlyticsInitProvider"/>
