@@ -21,5 +21,5 @@ def GetPythonCommand():
 	print("Your are using python command:"+PythonVersion)
 	return PythonVersion
 def main():
-	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/jinli20180518.py Configuration_ThisWarOfMine")if __name__=='__main__':
+	os.system(GetPythonCommand()+" "+ PythonLocation()+"/../01_E2WSDK/jinli20180518.py Configuration_GrumpyCatWorstGameEver")if __name__=='__main__':
     main()
