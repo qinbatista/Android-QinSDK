@@ -161,11 +161,13 @@
 
          <!-- alipay  begin -->
 
-      <activity  
-      android:configChanges="keyboardHidden|navigation|orientation"
-       android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" 
-       android:screenOrientation="behind"/>
-
+        <activity  
+            android:configChanges="keyboardHidden|navigation|orientation" 
+            android:exported="false" 
+            android:name="com.alipay.sdk.app.H5AuthActivity" 
+            
+            android:screenOrientation="behind" 
+            android:windowSoftInputMode="adjustResize|stateHidden"/>
         <activity
 
             android:name="com.alipay.sdk.auth.AuthActivity"
@@ -177,7 +179,10 @@
             android:screenOrientation="behind" >
 
         </activity>
-
+        <activity  
+        android:configChanges="keyboardHidden|navigation|orientation|screenSize" 
+        android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" 
+        android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden"/>
         <!-- alipay  end -->
 
         
