@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="preferExternal" package="com.east2west.thehouseofdavinci" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
     <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
     <application  android:debuggable="false" android:icon="@drawable/app_icon" android:isGame="true" android:label="@string/app_name" android:name="com.east2west.unitygame.GameSdkApplication" android:theme="@style/UnityThemeSelector">
-        <activity android:configChanges="locale|fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.east2west.unitygame.MainActivity" android:screenOrientation="sensorLandscape">
+        <activity android:configChanges="locale|fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.east2west.unitygame.MainActivity" android:screenOrientation="sensorPortrait">
             <!--main-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -12,6 +12,11 @@
             <meta-data android:name="unityplayer.UnityActivity" android:value="true"/>
             <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true"/>
         </activity>
+		<provider
+			  android:name="com.yasirkula.unity.UnitySSContentProvider"
+			  android:authorities="com.East2west.fishybits2"
+			  android:exported="false"
+			  android:grantUriPermissions="true" />
         <meta-data android:name="CHANNEL_NAME" android:value=""  />
         <meta-data android:name="CHANNEL_SHOW" android:value=""  />
         <meta-data android:name="CN_CHANNEL" android:value="13" />
