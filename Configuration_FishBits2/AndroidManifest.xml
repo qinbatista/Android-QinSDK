@@ -12,6 +12,7 @@
             <meta-data android:name="unityplayer.UnityActivity" android:value="true"/>
             <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true"/>
         </activity>
+        <provider android:authorities="UnityPackageName.fishybits.share" android:exported="false" android:grantUriPermissions="true" android:name="com.yasirkula.unity.UnitySSContentProvider"/>
 		<provider
 			  android:name="com.yasirkula.unity.UnitySSContentProvider"
 			  android:authorities="com.East2west.fishybits2"
