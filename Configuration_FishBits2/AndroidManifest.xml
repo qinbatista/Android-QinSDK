@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="preferExternal" package="com.east2west.thehouseofdavinci" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="preferExternal" package="com.east2west.thehouseofdavinci" platformBuildVersionCode="28" platformBuildVersionName="9">
     <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true"/>
     <application  android:debuggable="false" android:icon="@drawable/app_icon" android:isGame="true" android:label="@string/app_name" android:name="com.east2west.unitygame.GameSdkApplication" android:theme="@style/UnityThemeSelector">
         <activity android:configChanges="locale|fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.east2west.unitygame.MainActivity" android:screenOrientation="sensorPortrait">
@@ -28,6 +28,7 @@
         <!--sdk-->
         <!--end-->
     </application>
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
