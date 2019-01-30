@@ -7,3 +7,6 @@
 [submodule "03_Appurtenance"]
 	path = 03_Appurtenance
 	url = https://east2westgames:thankyou000@bitbucket.org/East2WestGames/03_appurtenance.git
+[submodule "04_ToolEngine"]
+	path = 04_ToolEngine
+	url = https://github.com/qinbatista/ToolEngine.git
