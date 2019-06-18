@@ -12,3 +12,8 @@ BuildingConfigration
 /Configuration_THODV/BuildingConfigration
 /Configuration_TM/BuildingConfigration
 */.DS_Store
+.gradle/4.4/fileChanges/last-build.bin
+.gradle/4.4/fileHashes/fileHashes.lock
+Configuration_IronMarine/.gradle/4.9/fileChanges/last-build.bin
+Configuration_IronMarine/.gradle/4.9/fileHashes/fileHashes.lock
+settings.json
